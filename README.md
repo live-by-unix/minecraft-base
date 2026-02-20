@@ -19,4 +19,5 @@ To play, follow these steps.
 1. Not taking out the map out of the folder. Because of how GitHub packages code when you get the folder (unzipped) you should see what is inside.
 You should see one sub-folder PUT THAT IN YOUR SAVES.
 
-
+#IMPORTANT NOTE:
+CAUSE OF GITHUB FILE UPLOADING TROUBLES THE RELEASE WILL BE DELAYED. 
