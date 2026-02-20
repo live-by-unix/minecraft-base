@@ -13,4 +13,10 @@ To play, follow these steps.
    * Linux: ~/.minecraft/saves/
 
 3. Load up Minecraft Java
-4. Enjoy! 
+4. Enjoy!
+
+# Common Error
+1. Not taking out the map out of the folder. Because of how GitHub packages code when you get the folder (unzipped) you should see what is inside.
+You should see one sub-folder PUT THAT IN YOUR SAVES.
+
+
