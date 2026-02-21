@@ -1,5 +1,5 @@
 # A Minecraft Base
-
+## Credits to myself and @Vanish-Coder
 VERY IMPORTANT NOTE: THIS IS ONLY FOR MINECRAFT JAVA. Version 1.21.11. You can upgrade and downgrade at your own risk, however this may result in corruption and even crashing of the game. 
 
 To play, follow these steps.
